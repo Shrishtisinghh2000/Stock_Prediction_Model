@@ -4,7 +4,7 @@ This project uses Long Short-Term Memory (LSTM) networks, a type of recurrent ne
 
 ## Table of Contents
 
-[Project Overview](Project Overview)
+Project Overview
 
 Dataset
 
