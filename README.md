@@ -8,8 +8,6 @@ Project Overview
 
 Dataset
 
-Project Structure
-
 Dependencies
 
 Usage
@@ -35,16 +33,6 @@ Time Period: January 1, 2013 - December 21, 2023
 Features: Date, Open, High, Low, Close, Volume
 
 Target: Close price
-
-
-## Project Structure
-
-StockPricePrediction/
-├── Stock Prediction Model.ipynb    # Jupyter notebook containing the full code and analysis
-├── Stock Predictions Model.keras   # Trained LSTM model
-├── README.md                       # Documentation file
-└── data/                           # Directory containing the dataset (optional)
-    └── NVDA.csv                    # Historical stock data (if saved locally)
 
     
 ## Dependencies
