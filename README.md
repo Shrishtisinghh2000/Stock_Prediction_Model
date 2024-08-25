@@ -34,21 +34,6 @@ Features: Date, Open, High, Low, Close, Volume
 
 Target: Close price
 
-    
-## Dependencies
-
-To run this project, you need the following dependencies:
-
-Python 3.x
-numpy
-pandas
-matplotlib
-yfinance
-scikit-learn
-keras
-tensorflow
-Jupyter Notebook (optional, for running the notebook)
-
 
 ## Usage
 
